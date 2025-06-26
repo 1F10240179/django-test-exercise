@@ -2,4 +2,4 @@ venv/
 __pycache__/
 *.pyc
 *.log
-dc.sqlite3
+dbsqlite3
